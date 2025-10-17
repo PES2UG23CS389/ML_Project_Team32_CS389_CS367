@@ -91,7 +91,7 @@ Used metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 
 ---
 
-## 💻 Streamlit Web App
+## Streamlit Web App
 
 After completing the notebook, the project was extended into a **Streamlit UI** for easy, real-time use.
 
